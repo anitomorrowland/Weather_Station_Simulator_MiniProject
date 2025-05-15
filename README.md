@@ -43,3 +43,27 @@ Day 3: Temperature = 27°C, Condition = Sunny
 Day 4: Temperature = 31°C, Condition = Sunny
 Most common weather condition: Sunny
 Average Temperature: 16.8°C
+
+
+## ✅ Why I Built This
+
+As a beginner in C#, I wanted a practical project that connects programming with real-world concepts. This project helped me:
+- Strengthen logic-building and array handling
+- Learn to break problems into smaller functions
+- Understand how to derive useful insights from raw data
+
+## 🚀 How to Run
+
+1. Clone or download the repo.
+2. Open in Visual Studio / VS Code.
+3. Build and run the console application.
+4. Enter number of days when prompted.
+
+## 📷 Screenshot (Optional)
+*(Insert console output image here if available)*
+
+---
+
+> 🎯 **Open to feedback!** Let me know if you see any improvements or ways I can optimize this logic further.
+
+
